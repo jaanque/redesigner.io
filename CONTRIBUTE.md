@@ -1,6 +1,12 @@
 <h1 align="center"><a href="https://www.">redesigner.io</a>
-</h1><br>
-\\\# Follow these rules to contribute
+<br>
+<img src="https://avatars.githubusercontent.com/u/124807178?s=48&v=4"></img>
+</h1>
+<br>
+
+
+# Follow these rules to contribute
+
 Conventional Commits is a specification for writing standardized commit messages. This guide will walk you through the process of creating a perfect commit step by step. You have to follow this document so that your commits can be added to the project.
 
 # Step 1: Understand Conventional Commits Format
