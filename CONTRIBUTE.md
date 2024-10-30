@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://www.">redesigner.io</a>
 <br>
 <br>
-<br>
 <img src="https://avatars.githubusercontent.com/u/124807178?s=48&v=4"></img>
 </h1>
 <br>
