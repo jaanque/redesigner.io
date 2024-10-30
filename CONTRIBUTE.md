@@ -7,7 +7,10 @@ Conventional Commits is a specification for writing standardized commit messages
 
 The basic format of a conventional commit message is:
 `type(scope): subject`
-<ul><li>\\\\\\*\\\\\\*type:\\\\\\*\\\\\\* The type of change (e.g., feat, fix, docs, style, refactor, perf, test).</li><li>\\\\\\*\\\\\\*scope:\\\\\\*\\\\\\* An optional scope that describes the section of the codebase affected (e.g., component or file name).</li><li>\\\\\\*\\\\\\*subject\\\\\\*\\\\\\* A short description of the change, capitalize the first letter and do not end with a period.</li></ul>
+
+- **type:** The type of change (e.g., feat, fix, docs, style, refactor, perf, test).
+- **scope:** An optional scope that describes the section of the codebase affected (e.g., component or file name).
+- **subject** A short description of the change, capitalize the first letter and do not end with a period.
 
 #### Real example
 
